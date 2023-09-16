@@ -26,3 +26,11 @@ squares[squares.length - 1].addEventListener("click", () => {
         });
     }, 1000);
 });
+ 
+// to open the navigation bar at 320 px
+const hamburger = document.getElementById("hamburger");
+const navLinks = document.getElementById("navlinks");
+
+hamburger.addEventListener("click", () => {
+    navLinks.classList.toggle("active");
+});

@@ -39,7 +39,7 @@ nav a {
 }
 
 .section1{
-    background: linear-gradient(135deg, #0048ff, #8b0ddf,#d609ff);
+    background: linear-gradient(135deg, #0048ff, #5d13ad,#d609ff);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
 }
 
@@ -120,3 +120,4 @@ nav a {
 .instagram-button:hover {
     background-color: #ba2744; 
 }
+
